@@ -1,0 +1,5 @@
+//env- new js language
+//jsx to javascript - since nodejs does not support jsx
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
